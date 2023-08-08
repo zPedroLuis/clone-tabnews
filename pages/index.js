@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>Eai docinho </h1>;
+  return <h1> Em construção... </h1>;
 }
-console.log('teste');
+console.log("teste");
 export default Home;
