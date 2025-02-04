@@ -1,4 +1,4 @@
-import database from "../../../../infra/database.js";
+import database from "infra/database.js";
 
 //Request trata o que lá do mundo de fora ta entrando dentro do seu sistema
 //Response trata o que você quer responder lá pra fora
